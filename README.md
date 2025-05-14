@@ -3,6 +3,7 @@
 A library for python codes used for post-processing the mantle convection code (Choi & Foley, 2024). The primary goal of this study is to investigate how sustained subduction zones formed at the continent margins in early Earth.
 
 Citation: https://doi.org/10.5281/zenodo.15411770
+
 Accompanying manuscript: TBD
 
 The mantle convection code used can be found [here](https://github.com/bradfordjfoley/foley-convection-code). If you do not wish to run the simulations on your end, please request the zipped data file, as it is too large to store on GitHub. The mantle convection code generates six different output files with the following structure:
