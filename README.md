@@ -25,3 +25,4 @@ Assuming all the data files are generated, run each code to generate plots for t
 |      7        |           dist_firsthit.m      |
 |      8        |          sz_wavelength.m       |
 
+Any questions regarding the code can be directed to me at hxc5400@psu.edu or hchoi342@eas.gatech.edu (after June 2025)
